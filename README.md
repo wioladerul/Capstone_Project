@@ -17,7 +17,7 @@ Here is our repository for the Bangkit 2024 Capstone project - Machine Learning.
 - Matplotlib
 - Google Colab
 ## Dataset
-
+We made the dataset from scratch by specifying the variables manually in Excel. We created 3 datasets, Model Dataset, Service Dataset, and General Solution Dataset. Variables for the model dataset are Nama Tempat, Longitude, Latitude, rating.
 ## How to Recommend
 
 ## Deployment
