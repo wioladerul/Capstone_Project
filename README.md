@@ -43,5 +43,5 @@ The variables for the General Solution Dataset are Masalah and Solusi. The expla
 
 We use the Model Dataset to build the model, while the Service Dataset and General Solution Dataset will be used by the cloud computing team to create an application database.
 ## How to Recommend
+The machine learning model can provide recommendations to users where the nearest laptop / computer service is and is supported by ratings and reviews. This computer/laptop service place recommendation is for the cities of Surabaya, Yogyakarta, and Solo.
 
-## Deployment
