@@ -34,7 +34,7 @@ The variables for the Service Dataset are Nama Tempat, Foto, Deskripsi, Longitud
 - Rating : Ratings for the service place or technician of the laptop/computer service place from users who have used the service.
 - Ulasan : Reviews for the service center or technicians of the service center from users who have used the service.
 
-The variables for the General Solution Dataset are Masalah and Solusi. The explanation of each variable is as follows :
+The variables for the General Solution Dataset are Masalah and Solusi. The explanation of each variable is as follows:
 - Masalah : Common problems that usually occur with laptops/computers.
 - Solusi : General solutions / tips to handle every common laptop/computer problem.
 
