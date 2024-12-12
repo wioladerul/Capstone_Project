@@ -8,7 +8,14 @@ Here is our repository for the Bangkit 2024 Capstone project - Machine Learning.
 ## Method
 
 ## Tools
-
+- Python
+- Sklearn
+- Math
+- TensorFlow
+- NumPy
+- Pandas
+- Matplotlib
+- Google Colab
 ## Dataset
 
 ## How to Recommend
